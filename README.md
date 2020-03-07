@@ -18,5 +18,5 @@ it1\)Slingshot = this company provides broadband, power and mobile,its a telecom
 
 9\) Lucid = didnt work
 
-10\) Equinox IT = It is a  consultancy company which solve problems for customers business and with it also provide trainning ,advisiory, cloud support .
+10\) Equinox IT = It is a  consultancy company which solve problems for customers business and with it also provide training ,advise, cloud support .
 
