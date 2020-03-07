@@ -12,5 +12,11 @@ it1\)Slingshot = this company provides broadband, power and mobile,its a telecom
 
 6\) Xero = Xero provides accounting software to he small business which help them in handling and maintaining accounts. It also give free trails, data secure facility,some tools and features like payroll,gst ,bank connection ,projects,project management,providing guidance and many more stuff to their customer for setting up business.
 
-7\)Story park = This website provides tutoring for kids ,they made it  very easy and reliable for use . It works almost in most of the countries. It is very flexible and affordable for early learning service
+7\)Story park = This website provides tutoring for kids ,they made it  very easy and reliable for use . It works almost in most of the countries.  Their service is to provide very flexible and affordable for learning for families.
+
+8\)Ashen A44 =  This is a game site where you can get download link and play with link on xbox and discord.
+
+9\) Lucid = didnt work
+
+10\) Equinox IT = It is a  consultancy company which solve problems for customers business and with it also provide trainning ,advisiory, cloud support .
 
