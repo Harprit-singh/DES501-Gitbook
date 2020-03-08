@@ -38,6 +38,10 @@ Information technology \(IT\), in its myriad forms, is having a profound and pal
 
 The roles of IT will also enable systematic identification and assessment of the risks and costs relationships involved with implementing IT in business processes in an organization.
 
+6\) Work space
+
+They can manage, analyse and transmit large amounts of data, ict systems can save time in the workspace and make us more productive. ict systems are used to analyse financial data, such as whether a company is making a profit or a loss and how much it earns from each customer, as well as managing staff wages
+
 
 
 
