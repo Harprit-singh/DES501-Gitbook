@@ -1,6 +1,6 @@
 # Activity 1.1
 
-it1\)Slingshot = this company provides broadband, power and mobile,its a telecom company.
+1\)Slingshot = this company provides broadband, power and mobile,its a telecom company.
 
 2\)Sql service =managing our databases and data, it also provide consulting service  and it is know for for the largest commercial DBA. It is also provides professional services for Microsoft SQL Server and BI environments, Oracle databases. 
 
